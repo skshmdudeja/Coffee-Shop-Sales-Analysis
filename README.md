@@ -43,9 +43,6 @@ This project analyzes coffee shop sales data to uncover trends in customer behav
 * Observed peak sales periods and high-performing locations
 * Highlighted customer purchase trends useful for inventory planning
 
-## Screenshot
-
- https://github.com/skshmdudeja/Coffee-Shop-Sales-Analysis/blob/main/Coffee%20Sales%20Analysis.png
 
 ## How to Use This Repository
 
