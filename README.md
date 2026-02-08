@@ -2,8 +2,9 @@
 
 ## Overview
 
-This project analyzes coffee shop sales data to uncover trends in customer behavior, product performance, and revenue patterns. The goal is to demonstrate core data analyst skills including data cleaning, exploratory analysis, and insight generation using a real-world style dataset.
 ![img alt](https://github.com/skshmdudeja/Coffee-Shop-Sales-Analysis/blob/main/Coffee%20Sales%20Analysis.png?raw=true)
+
+This project analyzes coffee shop sales data to uncover trends in customer behavior, product performance, and revenue patterns. The goal is to demonstrate core data analyst skills including data cleaning, exploratory analysis, and insight generation using a real-world style dataset.
 
 ## Objectives
 
