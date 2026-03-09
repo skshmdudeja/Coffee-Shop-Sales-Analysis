@@ -1,62 +1,103 @@
-# Coffee Shops Data Analysis
+# ☕ Coffee Shop Sales Analysis
 
-## Overview
+A complete sales performance analysis of a coffee shop business using **Advanced Excel** and **Power Query** — covering revenue trends, top-selling products, peak sales periods, and customer behavior insights through interactive dashboards.
 
-![img alt](https://github.com/skshmdudeja/Coffee-Shop-Sales-Analysis/blob/main/Coffee%20Sales%20Analysis.png?raw=true)
+---
 
-This project analyzes coffee shop sales data to uncover trends in customer behavior, product performance, and revenue patterns. The goal is to demonstrate core data analyst skills including data cleaning, exploratory analysis, and insight generation using a real-world style dataset.
+## 📊 Dashboard Preview
 
-## Objectives
+![Coffee Sales Dashboard](Coffee%20Sales%20Analysis.png)
 
-* Understand overall sales performance across locations and time periods
-* Identify top-performing products and categories
-* Analyze customer purchasing patterns
-* Generate actionable insights to support business decisions
+---
 
-## Dataset
+## 📁 Project Files
 
-* **Source:** Provided Excel dataset
-* **File:** `Coffee Shops Analysis.xlsx`
-* **Data Includes:**
+| File | Description |
+|------|-------------|
+| `Coffee Shops Analysis.xlsx` | Cleaned dataset with pivot tables and analysis |
+| `Coffee Shop Sales Analysis.pdf` | Exported dashboard report |
+| `Coffee Sales Analysis.png` | Dashboard screenshot |
 
-  * Transaction dates and times
-  * Store or location details
-  * Product categories and items
-  * Sales and revenue metrics
+---
 
-## Tools & Technologies
+## 🛠️ Tools & Technologies
 
-* Microsoft Excel for data cleaning and analysis
-* Pivot tables and formulas for aggregation
-* Charts and visualizations for trend analysis
+| Tool | Purpose |
+|------|---------|
+| Microsoft Excel (Advanced) | Data cleaning, analysis, pivot tables |
+| Power Query | Data transformation and structuring |
+| Excel Charts & Slicers | Interactive dashboard and visualizations |
 
-## Key Analysis Performed
+---
 
-* Data cleaning and validation to handle missing or inconsistent values
-* Exploratory data analysis to identify trends and anomalies
-* Revenue and sales analysis by product, category, and location
-* Time-based analysis to observe daily and monthly patterns
+## 📂 Dataset Overview
 
-## Insights
+- **Format:** Excel (.xlsx)
+- **Size:** 10,000+ transactional records
+- **Data Includes:**
+  - Transaction dates and times
+  - Store/location details
+  - Product categories and items
+  - Sales quantity and revenue metrics
 
-* Identified top-selling products contributing the highest revenue
-* Observed peak sales periods and high-performing locations
-* Highlighted customer purchase trends useful for inventory planning
+---
 
+## 🔍 Key Analysis Performed
 
-## How to Use This Repository
+- **Data Cleaning** — handled missing values, removed duplicates, standardized date formats using Excel formulas and Power Query
+- **Revenue Analysis** — identified top-selling products and categories by total revenue
+- **Time-Based Analysis** — analyzed daily, weekly, and monthly sales trends to find peak periods
+- **Location Analysis** — compared performance across store locations
+- **Customer Behavior** — examined purchase patterns and basket size trends
 
-1. Download the dataset from the repository
-2. Open `Coffee Shops Analysis.xlsx` in Excel
-3. Review cleaned data, pivot tables, and visualizations
-4. Refer to insights for understanding business implications
+---
 
-## Future Improvements
+## 💡 Key Insights
 
-* Add SQL-based analysis using a relational database
-* Create an interactive dashboard using Power BI or Tableau
-* Automate analysis using Python
+- 📦 **Top 2 product categories** account for **20%+ of total revenue** — key focus area for inventory planning
+- 📅 Identified **peak sales periods** (time of day and day of week) to optimize staffing and stock
+- 🏪 Highlighted best and lowest performing store locations
+- 🛒 Pivot table analysis revealed **seasonal demand patterns** useful for promotional planning
+- ✅ Built **interactive dashboards** with slicers enabling non-technical stakeholders to self-serve insights
 
-## About
+---
 
-This project was created as part of a learning portfolio for a Data Analyst Intern role, focusing on practical analytics skills and clear communication of insights.
+## 📈 Dashboard Features
+
+- Dynamic slicers to filter by **product, location, and time period**
+- Revenue trend line charts by month
+- Top products bar chart by sales volume
+- Category-wise revenue breakdown
+- Peak hours heatmap
+
+---
+
+## 🚀 How to Use
+
+1. Clone or download this repository
+```bash
+git clone https://github.com/skshmdudeja/Coffee-Shop-Sales-Analysis.git
+```
+
+2. Open `Coffee Shops Analysis.xlsx` in Microsoft Excel (2016 or later recommended)
+
+3. Navigate through the dashboard tabs using the slicers to explore insights
+
+4. Refer to `Coffee Shop Sales Analysis.pdf` for a quick overview without opening Excel
+
+---
+
+## 🔮 Future Improvements
+
+- Add SQL-based analysis using PostgreSQL
+- Rebuild dashboard in Power BI for richer interactivity
+- Automate data refresh using Python (Pandas)
+
+---
+
+## 👤 Author
+
+**Saksham Dudeja**
+- 📧 sdudeja60@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/saksham-dudeja/)
+- 🐙 [GitHub](https://github.com/skshmdudeja)
